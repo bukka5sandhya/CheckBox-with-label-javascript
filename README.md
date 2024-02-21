@@ -2,6 +2,8 @@ In this assignment, let's build a Checkbox with Label by applying the concepts w
 
 Refer to the below image.
 
+![image](https://github.com/bukka5sandhya/CheckBox-with-label-javascript/assets/133884532/a82382ae-5328-46de-9574-2168345f5c5a)
+
 https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/checkbox-with-label-v1.gif
 
 Instructions:
